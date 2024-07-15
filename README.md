@@ -15,7 +15,7 @@ I'm excited to share my latest project, the Madhav E-commerce Sales Dashboard! U
 
 *Key Insights*:
 
-*Profit by Month*: Highest in December
+*Profit by Month*: Highest in November
 
 *Payment Modes*: COD (44%) is the most popular
 
